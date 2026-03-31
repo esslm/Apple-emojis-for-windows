@@ -52,5 +52,5 @@ If you wish to return to the original Windows emojis:
 ---
 
 <p align="center">
-  Developed with ❤️ by <b>Esso</b> | 2026
+  Shared with ❤️ by <b>Esso</b> | 2026
 </p>
